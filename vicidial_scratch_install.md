@@ -1,2 +1,3 @@
 vicidial scratch install centos
+
 https://www.striker24x7.com/2019/12/vicidial-scratch-installation-in-centos.html
